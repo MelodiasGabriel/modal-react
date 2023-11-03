@@ -1,1 +1,1 @@
-# modal-react
+Modelo simples de Modal feito em React
